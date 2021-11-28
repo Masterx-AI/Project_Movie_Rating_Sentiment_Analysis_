@@ -54,11 +54,8 @@ The dataset can be downloaded here: https://archive.ics.uci.edu/ml/datasets/spam
 ![image](https://user-images.githubusercontent.com/54996245/143764205-83f2aad2-7454-42d1-bb8f-b5b573356273.png)
 
 ### Here are some of the key outcomes of the project:
-- The Dataset was small totally around 4600 samples & after preprocessing 6.2% of the datasamples were dropped. 
-- The spam emails were 20% more than non-spam ones, hence SMOTE Technique was applied on the data to  balance the classes, adding 13.5% more samples to the dataset.
+- The Dataset was large enough totally around 40000 samples & preprocessing was done to clean the samples. 
+- The positive & negative reviews were equally distributed.
 - Visualising the distribution of data & their relationships, helped us to get some insights on the sparse matrix distribution.
-- The large feature set was reduced by Feature Extraction Technique - PCA, reducing to 30 features.
 - Testing multiple algorithms with default hyperparamters gave us some understanding for various models performance on this specific dataset.
-- The ensemble & boosting algorithms perform the best on the current dataset, followed by Support Vector Machines.
-- Yet it wise to also consider simpler model like Logistic Regression as it is more generalisable & is computationally less expensive.
-
+- Surprisingly Logisitic Regression outperformed most of the other alogrithms. It is more generalisable & computationally less expensive.
