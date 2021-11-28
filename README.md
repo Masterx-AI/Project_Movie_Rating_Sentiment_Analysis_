@@ -33,7 +33,7 @@ The dataset can be downloaded here: https://archive.ics.uci.edu/ml/datasets/spam
 ### Some Visuals of the Project:
 
 **1. Target Variable Distribution**
-<p align="left"><img src="https://user-images.githubusercontent.com/54996245/141677319-6a2b067d-f2df-4ad7-a783-ff12e92d4207.png" /></p>
+<p align="left"><img src="https://user-images.githubusercontent.com/54996245/143764112-a539a43d-e391-4162-98a7-83cfffc883e3.png" /></p>
 
 **2. Feature-set Distribution**
 
