@@ -25,12 +25,10 @@ The dataset can be downloaded here: https://archive.ics.uci.edu/ml/datasets/spam
 
 ### The Project is divided into the following steps:
 1. Data Exploration
-2. Exploratory Data Analysis
-3. Data Preprocessing
-4. Feature Selection/Extraction
-5. Feature Scaling
-6. Predictive Modeling
-7. Project Outcomes & Conclusions
+2. Data Preprocessing
+3. Exploratory Data Analysis
+4. Predictive Modeling
+5. Project Outcomes & Conclusions
 
 ### Some Visuals of the Project:
 
