@@ -4,17 +4,23 @@
 
 ### Description:
 
-The "spam" concept is diverse: advertisements for products/web sites, make money fast schemes, chain letters, pornography...
+The dataset is comprised of tab-separated files with phrases from the Rotten Tomatoes dataset. The train/test split has been preserved for the purposes of benchmarking, but the sentences have been shuffled from their original order. Each Sentence has been parsed into many phrases by the Stanford parser. Each phrase has a PhraseId. Each sentence has a SentenceId. Phrases that are repeated (such as short/common words) are only included once in the data.
 
-Our collection of spam e-mails came from our postmaster and individuals who had filed spam. Our collection of non-spam e-mails came from filed work and personal e-mails, and hence the word 'george' and the area code '650' are indicators of non-spam. These are useful when constructing a personalized spam filter. One would either have to blind such non-spam indicators or get a very wide collection of non-spam to generate a general purpose spam filter.
+train.tsv contains the phrases and their associated sentiment labels. We have additionally provided a SentenceId so that you can track which phrases belong to a single sentence.
+test.tsv contains just phrases. You must assign a sentiment label to each phrase.
+The sentiment labels are:
 
-The dataset, taken from the UCI ML repository, contains about 4600 emails labelled as **spam** or **ham**. 
+0 - negative
+1 - somewhat negative
+2 - neutral
+3 - somewhat positive
+4 - positive
 
 The dataset can be downloaded here: https://archive.ics.uci.edu/ml/datasets/spambase
 
 ### Objective:
 - Understand the Dataset & cleanup (if required).
-- Build classification models to predict whether or not the email spam.
+- Build classification models to predict the ratings of the movie.
 - Compare the evaluation metrics of vaious classification algorithms.
 
 ### The Project is divided into the following steps:
