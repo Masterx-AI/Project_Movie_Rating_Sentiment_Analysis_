@@ -36,30 +36,22 @@ The dataset can be downloaded here: https://archive.ics.uci.edu/ml/datasets/spam
 
 <p align="left"><img src="https://user-images.githubusercontent.com/54996245/143764112-a539a43d-e391-4162-98a7-83cfffc883e3.png" /></p>
 
-**2. Feature-set Distribution**
+**2. Sequence Length Distribution**
 
 ![image](https://user-images.githubusercontent.com/54996245/143764143-b9dfcd0a-05ea-442c-9192-82b4920dbd1c.png)
 
-**3. Data Retention after preforming preprocessing step**
+**3. Most frequent Positive & Negative Words Wordcloud**
 
 ![image](https://user-images.githubusercontent.com/54996245/143764150-bc5bf89a-0b9c-4e18-86ae-c222af823323.png)
 
-**4. Correlation plot for features**
-
-![image](https://user-images.githubusercontent.com/54996245/141677415-6a207c1e-146a-4ec4-b656-2a3d1673fe14.png)
-
-**6. PCA Feature Importance**
-
-![image](https://user-images.githubusercontent.com/54996245/141677429-8fc7e07e-e5a1-4496-8bea-6cbbc9d8cca0.png)
-
-**5. ROC Plots**
+**4. ROC Plots**
 
 ![image](https://user-images.githubusercontent.com/54996245/141677436-2bafe4aa-08ed-477c-9977-8afbb9156ea2.png)
 
 
 **7. ML Algorithm's Scores**
-![image](https://user-images.githubusercontent.com/54996245/141677442-43190b6c-c761-42c5-9531-6fb5cbb6bc2c.png)
-![image](https://user-images.githubusercontent.com/54996245/141677444-7da0ab25-ac71-4b2c-ab1c-e0dcdb15898f.png)
+![image](https://user-images.githubusercontent.com/54996245/143764203-17ce422d-1bba-44ad-a099-dc1112dea314.png)
+![image](https://user-images.githubusercontent.com/54996245/143764205-83f2aad2-7454-42d1-bb8f-b5b573356273.png)
 
 ### Here are some of the key outcomes of the project:
 - The Dataset was small totally around 4600 samples & after preprocessing 6.2% of the datasamples were dropped. 
