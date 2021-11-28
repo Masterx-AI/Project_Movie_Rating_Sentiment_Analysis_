@@ -33,15 +33,16 @@ The dataset can be downloaded here: https://archive.ics.uci.edu/ml/datasets/spam
 ### Some Visuals of the Project:
 
 **1. Target Variable Distribution**
+
 <p align="left"><img src="https://user-images.githubusercontent.com/54996245/143764112-a539a43d-e391-4162-98a7-83cfffc883e3.png" /></p>
 
 **2. Feature-set Distribution**
 
-![image](https://user-images.githubusercontent.com/54996245/141677301-5eaaab92-136e-44a2-80d5-329c7249a045.png)
+![image](https://user-images.githubusercontent.com/54996245/143764143-b9dfcd0a-05ea-442c-9192-82b4920dbd1c.png)
 
 **3. Data Retention after preforming preprocessing step**
 
-![image](https://user-images.githubusercontent.com/54996245/141677403-b634ae2a-fff4-4576-a1ed-649fc9a1c5d1.png)
+![image](https://user-images.githubusercontent.com/54996245/143764150-bc5bf89a-0b9c-4e18-86ae-c222af823323.png)
 
 **4. Correlation plot for features**
 
